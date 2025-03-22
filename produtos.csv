@@ -1,0 +1,11 @@
+product_id,product_name,category,price,release_date,brand
+1,Product_1,Smartphone,1480,2022-12-01 21:40:02,Brand_A
+2,Product_2,Laptop,1846,2022-04-14 10:34:35,Brand_B
+3,Product_3,Tablet,999,2022-09-15 12:45:48,Brand_C
+4,Product_4,Acessório,275,2022-12-22 07:30:03,Brand_D
+5,Product_5,Smartphone,1288,2022-11-18 06:06:43,Brand_E
+6,Product_6,Laptop,1953,2022-07-05 08:47:45,Brand_A
+7,Product_7,Tablet,1479,2022-11-14 17:45:13,Brand_B
+8,Product_8,Acessório,1313,2022-11-25 11:58:10,Brand_C
+9,Product_9,Smartphone,1536,2022-12-23 19:07:56,Brand_D
+10,Product_10,Laptop,1421,2022-10-08 19:14:13,Brand_E

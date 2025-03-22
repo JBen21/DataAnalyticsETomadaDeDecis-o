@@ -1,0 +1,15 @@
+Atividade 02 - Análise de Desempenho de Vendas Online
+Danilo Camotti
+•
+15:23
+A base será focada em um cenário de vendas online, onde uma empresa está analisando o desempenho de seus produtos.
+
+Cenário: E-commerce de Eletrônicos
+
+Você é o analista de uma empresa de e-commerce que vende produtos eletrônicos, como smartphones, laptops, tablets, e acessórios. A empresa deseja entender melhor o desempenho de suas vendas e identificar oportunidades de crescimento.
+
+ Explorar a base de dados e responder as seguintes questões:
+
+1- Qual foi o produto mais vendido no segundo trimestre?
+2- Qual região está apresentando menor desempenho de vendas?
+3- Há uma tendência sazonal nas vendas de smartphones? Caso contrário, analise e descreva uma observação que achou relevante sobre as vendas de smartphones.
